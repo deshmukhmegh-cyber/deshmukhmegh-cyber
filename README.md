@@ -77,6 +77,5 @@ Analysed Vanguard Growth ETF historical prices, built Buy/Sell trading signals u
 
 📍 Galway, Ireland · Stamp 1G · Immediate Joiner · Open to Hybrid / Remote / Relocation
 
----
 
-*"I build secure AI systems — not because it's trendy, but because it's the right way to build."* 🔐
+
